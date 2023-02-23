@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  libsodium-wrappers: ^0.7.11
+
+devDependencies:
+  libsodium-wrappers: 0.7.11
+
+packages:
+
+  /libsodium-wrappers/0.7.11:
+    resolution: {integrity: sha512-SrcLtXj7BM19vUKtQuyQKiQCRJPgbpauzl3s0rSwD+60wtHqSUuqcoawlMDheCJga85nKOQwxNYQxf/CKAvs6Q==}
+    dependencies:
+      libsodium: 0.7.11
+    dev: true
+
+  /libsodium/0.7.11:
+    resolution: {integrity: sha512-WPfJ7sS53I2s4iM58QxY3Inb83/6mjlYgcmZs7DJsvDlnmVUwNinBCi5vBT43P6bHRy01O4zsMU2CoVR6xJ40A==}
+    dev: true
